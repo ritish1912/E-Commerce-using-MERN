@@ -1,2 +1,3 @@
-# E-Commerce-using-MERN
-E-commerce Web Application Powered by the MERN Stack
+# Social-Media-WebApp-using-MERN
+
+Social-Media-WebApp Powered by the MERN Stack
